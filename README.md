@@ -1,4 +1,5 @@
-# ssl_cert_setup
+# SSL Certificate Creation Guide
+
 This guide will help you create your own SSL certificate using OpenSSL, as well as alternatives for obtaining trusted SSL certificates.
 
 ## Table of Contents
